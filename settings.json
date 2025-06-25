@@ -1,0 +1,46 @@
+{
+    "comments_data_file" : "D:\\Software Dev Workplace\\AB Social Media Bot - CONSOLE\\text-data\\comments.txt",
+
+    "affiliate_marketing_program_link" : "https://bit.ly/4fpExLh",
+
+    "healthcare-instagram-hashtag-file" : "D:\\Software Dev Workplace\\AB Social Media Bot - CONSOLE\\text-data\\hashtags.txt",
+
+
+    "facebook_post_caption_file" : "D:\\Software Dev Workplace\\AB Social Media Bot - CONSOLE\\text-data\\ai-quotes.txt", 
+    "facebook_post_hashtags_file" : "D:\\Software Dev Workplace\\AB Social Media Bot - CONSOLE\\text-data\\ai-hashtags.txt",
+    "facebook_video_file_path" : "C:\\Users\\Saad Khan\\Desktop\\Media\\Facebook\\videos",
+    "facebook_group_url" : "https://www.facebook.com/groups/692524492470902", 
+    "facebook_pages_file" : "D:\\Software Dev Workplace\\AB Social Media Bot - CONSOLE\\text-data\\facebook-pages-urls.txt",
+
+
+    "ai_quotes_dataset_file" : "D:\\Software Dev Workplace\\AB Social Media Bot - CONSOLE\\text-data\\ai-quotes.txt", 
+
+
+    "tiktok_hashtag_file_path" : "D:\\Software Dev Workplace\\AB Social Media Bot - CONSOLE\\text-data\\ai-hashtags.txt", 
+    "tiktok_description_file_path" : "D:\\Software Dev Workplace\\AB Social Media Bot - CONSOLE\\text-data\\ai-quotes.txt", 
+    "tiktok_video_foler_path" : "C:\\Users\\Saad Khan\\Desktop\\Media\\TikTok\\videos",
+    "tiktok_comments_file" : "D:\\Software Dev Workplace\\AB Social Media Bot - CONSOLE\\text-data\\tiktok_video_comments.txt",
+
+
+    "instagram_media_folder_path" : "C:\\Users\\Saad Khan\\Desktop\\Media\\Instagram\\media-dataset", 
+    "instagram_profiles_file" : "D:\\Software Dev Workplace\\AB Social Media Bot - CONSOLE\\text-data\\insta-influencers-profiles.txt",
+    
+
+    "pinterest_media_file_folder" : "C:\\Users\\Saad Khan\\Desktop\\Media\\Pinterest\\media-dataset",
+    "pinterest_titles_file" : "D:\\Software Dev Workplace\\AB Social Media Bot - CONSOLE\\text-data\\pins-title-data.txt",
+    "pinterest_search_items_file" : "D:\\Software Dev Workplace\\AB Social Media Bot - CONSOLE\\text-data\\pinterest_search_items.txt",
+
+    "health_care_description_file" : "D:\\Software Dev Workplace\\AB Social Media Bot - CONSOLE\\text-data\\dataset.txt",
+    
+    "python_comments_dataset_file" : "D:\\Software Dev Workplace\\AB Social Media Bot - CONSOLE\\text-data\\python-comments.txt",
+
+
+    "linkedin_profile_urls" : "D:\\Software Dev Workplace\\AB Social Media Bot - CONSOLE\\text-data\\linkedin-profile-urls.txt",
+    "linkedin_comment_posting_limit" : 3,
+
+    
+    "youtube_comment_posting_limit" : 4,
+    "youtube_comments_dataset_file" : "D:\\Software Dev Workplace\\AB Social Media Bot - CONSOLE\\text-data\\youtube-comments-dataset.txt",
+    "youtube_videosearch_dataset_file" : "D:\\Software Dev Workplace\\AB Social Media Bot - CONSOLE\\text-data\\youtube-video-searches.txt"
+    
+  }
